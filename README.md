@@ -19,5 +19,3 @@
 
 The goal is to understand how autograd systems like PyTorch work under the hood by implementing a mini version from scratch. It is educational and useful for beginners who want to explore deep learning internals.
 
-## 📦 Structure
-
